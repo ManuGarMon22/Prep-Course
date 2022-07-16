@@ -1,0 +1,10 @@
+Variable:
+Una variable espacio para poder guardar informacion. Ya sean numeros, letras o un dato en especial 
+String:
+Un string es un tipo de espacio el cual se encarga de guardar solo letras, ya sea palabras especificas o pequeñas frases
+Funciones (argumentos, return):
+las funciones son acciones. Pueden o no pedir argumetos. cuando los argumentos son pedidos generalemente estos afectan las acciones o procesos que esta realizan.
+Declacion if:
+Como su nombre traducido al español lo dice, es un condicional si, osea una funcion que se realiza si se cumple una o varias condicones, dependerá de como haya sido declarada
+Valores booleanos:
+son los variables que solo puede tener como resultado verdadero o falso.
